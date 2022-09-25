@@ -8,3 +8,7 @@ GestureDetector
 BottomNavigationBar 
 Drawer and EndDrawer
 SliverAppBar
+TabBar
+Animated Container
+Media Query
+Alert Dialog
